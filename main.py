@@ -1,9 +1,7 @@
 '''
 Name: Hiren Shah
 Date: 1/18/21
-Lab 2 Menu Based Program
-Class: SDEV 300
-Dr. Parsons
+
 '''
 
 # Import statements
