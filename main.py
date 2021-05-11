@@ -1,6 +1,8 @@
 '''
 Name: Hiren Shah
 Date: 1/18/21
+Purpose: A Program that generates a secure password, calculates how many days from today until July 4th, 2021,
+and calculates the leg of a triangle using law of CoSines.
 
 '''
 
